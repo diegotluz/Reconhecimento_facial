@@ -154,3 +154,18 @@ Sinta-se à vontade para contribuir com este projeto. Faça um fork, crie uma br
 
 ## **Licença**
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+
+---
+
+## Melhorias Futuras
+
+Aqui estão algumas sugestões de melhorias que podem ser implementadas neste projeto:
+
+1. **Adicionar Testes Automatizados**: Implementar testes unitários e de integração para garantir a qualidade do código e evitar regressões.
+2. **Melhorar a Interface do Usuário**: Tornar a interface do Streamlit mais amigável e intuitiva, com mensagens de erro claras e feedback visual.
+3. **Adicionar Suporte a Outros Idiomas**: Expandir o suporte para reconhecimento de texto em outros idiomas além do português.
+4. **Implementar Logs Detalhados**: Adicionar logs detalhados para facilitar a depuração e o monitoramento do sistema.
+5. **Adicionar Autenticação**: Proteger a API com autenticação, como tokens JWT, para evitar acessos não autorizados.
+6. **Melhorar a Documentação**: Expandir a documentação com exemplos de uso, arquitetura do sistema e instruções detalhadas de configuração.
+7. **Adicionar Suporte a Banco de Dados Local**: Permitir o uso de um banco de dados local (como SQLite) para desenvolvimento e testes.
+8. **Implementar Cache**: Adicionar um sistema de cache para melhorar o desempenho em operações repetitivas, como reconhecimento facial ou OCR.
