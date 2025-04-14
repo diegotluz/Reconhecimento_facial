@@ -5,7 +5,8 @@ Este projeto realiza verificação de identidade utilizando reconhecimento facia
 ---
 ## **Dependências SupaBase**
 Caso queira instalar o supabase em localhoot fiz um repositário para ajudar na instalação:
-supabase SelfHost  [https://github.com/diegotluz/Reconhecimento_facial](https://github.com/diegotluz/Reconhecimento_facial)
+
+Supabase SelfHost  [https://github.com/diegotluz/Reconhecimento_facial](https://github.com/diegotluz/Reconhecimento_facial)
 
 ## **Como Executar o Projeto**
 
