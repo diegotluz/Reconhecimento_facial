@@ -3,7 +3,7 @@
 Este projeto realiza verificação de identidade utilizando reconhecimento facial e OCR (Reconhecimento Óptico de Caracteres). Ele combina tecnologias como FastAPI, Streamlit, Supabase, DeepFace e Tesseract OCR para criar uma solução robusta de validação de identidade.
 
 ---
-## **Dependeia SupaBase**
+## **Dependências SupaBase**
 Caso queira instalar o supabase em localhoot fiz um repositário para ajudar na instalação:
 supabase SelfHost  [https://github.com/diegotluz/Reconhecimento_facial](https://github.com/diegotluz/Reconhecimento_facial)
 
