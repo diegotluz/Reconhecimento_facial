@@ -157,7 +157,7 @@ Sinta-se à vontade para contribuir com este projeto. Faça um fork, crie uma br
 ---
 
 ## **Licença**
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://mit-license.org/) para mais detalhes.
 
 ---
 
